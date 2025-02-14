@@ -1,5 +1,5 @@
 with
-    dim produtos as (
+    dim_produtos as (
         select*
         from {{ref('int_vendas__prep_produtos')}}
     )
