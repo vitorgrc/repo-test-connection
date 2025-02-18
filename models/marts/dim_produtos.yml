@@ -1,4 +1,4 @@
-CIDADE_models:
+models:
   - name: dim_produtos
     description: Dimensão de produtos do sistema PDV da Northwind.
     columns: 
